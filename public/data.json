@@ -1,0 +1,52 @@
+
+
+    [
+        {"name":"LINCOLN MKT 2014",
+        "description":"The Lincoln MKT Reliability Rating is 2.5 out of 5.0, which ranks it 7th out of 19 for luxury fullsize SUVs. The average annual repair cost is $996which means it has poor ownership costs.",
+        "img":"https://file.kelleybluebookimages.com/kbb/base/house/2014/2014-Lincoln-MKT-FrontSide_LTMKT141_640x480.jpg",
+        "Price":"$37,000"},
+
+        {"name":"KIA OPTIMA 2015",
+        "description":"Standard features in the 2015 Optima include a USB port, Bluetooth, satellite radio, and a six-speaker stereo. Available features include a sunroof, dual-zone automatic climate control, a leather-wrapped steering wheel and shift knob, a heated steering wheel, proximity keyless entry, and push-button start.",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMtPEu60lhA5jmb6Q4HXvCYp-F6bI3TnhGw&usqp=CAU",
+        "Price":"$24,340"},
+
+        {"name":"MAZDA 3 2015",
+        "description":"Two engines are available in the 2015 Mazda3: a 2.0-liter I-4 with 155 hp and 150 lb-ft of torque in the Mazda 3 i and a 2.5-liter I-4 rated at 184 hp and 185 lb-ft in the Mazda 3 s. Both engines can be paired to a six-speed manual or automatic transmission.",
+        "img":"https://media.ed.edmunds-media.com/mazda/3/2015/oem/2015_mazda_3_sedan_s-grand-touring_fq_oem_1_1600.jpg",
+        "Price":"$14700"},
+        {"name":"LEXUS NX HYBRID 2014",
+        "description":"The Lexus brand was outright winner for satisfaction, too. In the 2020 edition, the NX had dropped to 42nd out of 75 cars, but still scored strongly for reliability, with a below-average problem rate of just over 11% reported.",
+        "img":"https://ssl.caranddriving.com/cdwebsite/image169.ashx?url=https://ssl.caranddriving.com/ssl/f2/images/used/big/lexusnx2014to2017.jpg",
+        "Price":"$35,600"},
+        {"name":"BMW 6 SERIES 2014",
+        "description":"The 2014 6 Series lineup offers two engine options, not including the high-performance M6 models. A turbocharged 3.0-liter I-6 producing 315 hp and 330 lb-ft of torque can be found under the hoods of all 640i models, while a 445-hp, 480-lb-ft twin-turbo 4.4-liter V-8 powers 650i models.",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/c/c5/2018_BMW_6er_Gran_Coupe_M_Sport%2C_F06.jpg",
+        "Price":"$28,600"},
+
+        {"name":"HYUNDAI ACCENT GS 2015",
+        "description":"The GS hatchback includes all the standard GLS features and adds body-color mirrors/door handles, a rear windshield wiper, keyless entry and a driver seat armrest. Stepping up to the SE hatchback adds a rear spoiler, a leather-wrapped steering wheel and the equipment from the Premium package.",
+        "img":"https://file.kelleybluebookimages.com/kbb/base/house/2015/2015-Hyundai-Accent-FrontSide_HYACC151_640x480.jpg",
+        "Price":"$15,500"},
+
+        {"name":"Ford Focus S 2015",
+        "description":"Is the 2015 Ford Focus a Good Used Car? Yes, the 2015 Focus is a decent used compact car. This Ford has a comfortable cabin and engaging performance, especially in the sporty ST trim with a powerful engine. However, it has a poor reliability rating and tight rear seats.",
+        "img":"https://pictures.topspeed.com/IMG/crop/201406/2015-ford-focus-st-5_800x0w.jpg",
+        "Price":"$24,340"
+        },
+
+        {"name":"FORD TAURUS 2015","description":"Despite its poor ranking, the 2015 Ford Taurus is a decent large car. It has one of the biggest trunks in the class, and its available 2.0-liter engine is very fuel-efficient. It also comes with a solid list of features and offers a composed ride. However, its rear-seat space isn't up to snuff for a large sedan.","img":"https://www.motortrend.com/uploads/sites/10/2015/11/2015-ford-taurus-limited-fwd-sedan-angular-front.png","Price":"$28,600"},
+
+        {"name":"CHEVROLET SILVERADO 1500 2015","description":"The Manufacturer's Suggested Retail Price (MSRP) of the 2015 Chevy Silverado runs the gamut from just over $27,000 for a base regular-cab model to over $50,000 for a 4WD High Country crew cab. Most buyers will split the difference in both trim and price.",
+        "img":"https://cdn.jdpower.com/Models/640x480/2015-Chevrolet-Silverado1500-HighCountry.jpg",
+        "Price":"$15,500"},
+
+        {"name":"LEXUS NX HYBRID 2015","description":"The Manufacturer's Suggested Retail Price (MSRP) of the 2015 Chevy Silverado runs the gamut from just over $27,000 for a base regular-cab model to over $50,000 for a 4WD High Country crew cab. Most buyers will split the difference in both trim and price.",
+            "img":"https://www.autoguide.com/blog/wp-content/uploads/2014/04/2015-lexus-nx.jpg",
+            "Price":"$15,500"}
+
+
+
+
+    ]
+
