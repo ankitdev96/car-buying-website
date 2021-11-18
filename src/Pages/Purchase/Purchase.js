@@ -14,7 +14,7 @@ const Purchase = () => {
 // console.log(user);
 
     useEffect(() => {
-        fetch(`http://localhost:5000/products/${productId}`)
+        fetch(`https://fierce-journey-47025.herokuapp.com/products/${productId}`)
          .then(res => res.json())
          .then(data =>setProduct(data))
 
@@ -28,7 +28,7 @@ const Purchase = () => {
 
        console.log(data);
 
-            fetch('http://localhost:5000/orders', {
+            fetch('https://fierce-journey-47025.herokuapp.com/orders', {
                 method: 'POST',
                 headers: {
                     'content-type': 'application/json'

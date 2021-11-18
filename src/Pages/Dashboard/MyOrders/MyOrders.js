@@ -7,13 +7,13 @@ const MyOrders = () => {
     const {user} = useAuth();
 
     useEffect(() => {
-        fetch(`http://localhost:5000/purchased?email=${user.email}`)
+        fetch(`https://fierce-journey-47025.herokuapp.com/purchased?email=${user.email}`)
         .then(res => res.json())
         .then(data => setOrders(data))
     },[])
 
     const handleDelete = (id) => {
-        const url = `http://localhost:5000/purchased/${id}`;
+        const url = `https://fierce-journey-47025.herokuapp.com/purchased/${id}`;
 
         fetch(url, {
             method:'DELETE'

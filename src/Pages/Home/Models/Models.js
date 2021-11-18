@@ -8,7 +8,7 @@ const Models = () => {
     const [models,setModels] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:5000/models')
+        fetch('https://fierce-journey-47025.herokuapp.com/models')
             .then(res=>res.json())
             .then(data =>setModels(data));
     },[])

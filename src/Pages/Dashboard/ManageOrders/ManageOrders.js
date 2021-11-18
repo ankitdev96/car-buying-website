@@ -9,13 +9,13 @@ const ManageOrders = () => {
 
     useEffect(
         ()=>{
-            fetch('http://localhost:5000/purchasedAll')
+            fetch('https://fierce-journey-47025.herokuapp.com/purchasedAll')
             .then(res => res.json())
             .then(data => setAllOrders(data));
         },[])
 
         const handleDelete = (id) => {
-            const url = `http://localhost:5000/purchased/${id}`;
+            const url = `https://fierce-journey-47025.herokuapp.com/purchased/${id}`;
     
             fetch(url, {
                 method:'DELETE'
@@ -36,7 +36,7 @@ const ManageOrders = () => {
         }
 
         const handleStatus = (id) => {
-            const url = 'http://localhost:5000/purchasedAll/status';
+            const url = 'https://fierce-journey-47025.herokuapp.com/purchasedAll/status';
     
             fetch(url, {
                 method:'PUT',

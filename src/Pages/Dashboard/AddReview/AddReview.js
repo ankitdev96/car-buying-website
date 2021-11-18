@@ -9,7 +9,7 @@ const AddReview = () => {
     const onSubmit = data => 
   {
     console.log(data);
-    axios.post('http://localhost:5000/review',data)
+    axios.post('https://fierce-journey-47025.herokuapp.com/review',data)
     .then(res => {
         console.log(res);
         // console.log(res.data.insertId);
